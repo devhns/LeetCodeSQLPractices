@@ -1,2 +1,2 @@
 # LeetCodeSQLPractices
-HackerRank SQL Practices Solutions with MS SQL Server and MySQL
+HackerRank SQL Practices Solutions
